@@ -1,0 +1,10 @@
+E:\Demofiles\Mod12\Demo1\Solution\UsingCollectionsDemo\UsingCollectionsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Demofiles\Mod12\Demo1\Solution\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\UsingCollectionsDemo.exe
+E:\Demofiles\Mod12\Demo1\Solution\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\UsingCollectionsDemo.pdb
+E:\Demofiles\Mod12\Demo1\Solution\UsingCollectionsDemo\UsingCollectionsDemo\obj\x86\Debug\UsingCollectionsDemo.exe
+E:\Demofiles\Mod12\Demo1\Solution\UsingCollectionsDemo\UsingCollectionsDemo\obj\x86\Debug\UsingCollectionsDemo.pdb
+E:\Demofiles\Mod12\Demo1\Starter\UsingCollectionsDemo\UsingCollectionsDemo\obj\x86\Debug\UsingCollectionsDemo.exe
+E:\Demofiles\Mod12\Demo1\Starter\UsingCollectionsDemo\UsingCollectionsDemo\obj\x86\Debug\UsingCollectionsDemo.pdb
+E:\Demofiles\Mod12\Demo1\Starter\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\UsingCollectionsDemo.exe
+E:\Demofiles\Mod12\Demo1\Starter\UsingCollectionsDemo\UsingCollectionsDemo\bin\Debug\UsingCollectionsDemo.pdb
+E:\Demofiles\Mod12\Demo1\Starter\UsingCollectionsDemo\UsingCollectionsDemo\obj\x86\Debug\ResolveAssemblyReference.cache
